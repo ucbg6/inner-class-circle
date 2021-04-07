@@ -47,6 +47,8 @@ public class circulo extends Application {
         primaryStage.setTitle("Hello World!");
         primaryStage.setScene(scene);
         primaryStage.show();
+        
+        // Nueva línea
        
     }
 
